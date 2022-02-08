@@ -11,12 +11,11 @@
 		testDir: "generated/test",
 		distDir: "generated/dist",
 		clientDistDir: "generated/dist/client",
-		vendorDir: "vendor",
-		packageLock: "./package-lock.json",
+		vendortDir: "vendor",
 
 		buildDir: "build",
 		clientDir: "src",
-		clientEntryPoint: "src/index.js",
+		clientEntryPoint: "src/toggle.js",
 		clientDistBundle: "generated/dist/client/bundle.js"
 	};
 
